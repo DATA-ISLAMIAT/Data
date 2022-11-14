@@ -1,266 +1,272 @@
 [
  {
-  "id": "1",
+  "id": 1,
   "name": "Noman",
-  "Phone ": "0169342819",
-  "Total": "463",
-  "use": "268",
-  "remain": "195",
-  "progress": 0.42116630669546434
+  "Phone": 880169342819,
+  "Total": 463,
+  "use": 268,
+  "remain": 195,
+  "progress": 42
  },
  {
-  "id": "2",
+  "id": 2,
   "name": "Alauddin",
-  "Phone ": "0154750417",
-  "Total": "822",
-  "use": "651",
-  "remain": "171",
-  "progress": 0.20802919708029197
+  "Phone": 880154750417,
+  "Total": 822,
+  "use": 651,
+  "remain": 171,
+  "progress": 21
  },
  {
-  "id": "3",
+  "id": 3,
   "name": "Rahim",
-  "Phone ": "0138869784",
-  "Total": "807",
-  "use": "757",
-  "remain": "50",
-  "progress": 0.061957868649318466
+  "Phone": 880138869784,
+  "Total": 807,
+  "use": 757,
+  "remain": 50,
+  "progress": 06
  },
  {
-  "id": "4",
+  "id": 4,
   "name": "Karim",
-  "Phone ": "0156433200",
-  "Total": "528",
-  "use": "24",
-  "remain": "504",
-  "progress": 0.9545454545454546
+  "Phone": 880156433200,
+  "Total": 528,
+  "use": 24,
+  "remain": 504,
+  "progress": 95
  },
  {
-  "id": "5",
+  "id": 5,
   "name": "Pagol",
-  "Phone ": "0181738100",
-  "Total": "354",
-  "use": "342",
-  "remain": "12",
-  "progress": 0.03389830508474576
+  "Phone": 880169342819,
+  "Total": 354,
+  "use": 342,
+  "remain": 12,
+  "progress": 03
  },
  {
-  "id": "6",
+  "id": 6,
   "name": "Chagol",
-  "Phone ": "0176675591",
-  "Total": "411",
-  "use": "230",
-  "remain": "181",
-  "progress": 0.44038929440389296
+  "Phone": 880154750417,
+  "Total": 411,
+  "use": 230,
+  "remain": 181,
+  "progress": 44
  },
  {
-  "id": "7",
+  "id": 7,
   "name": "Vera",
-  "Phone ": "0149628594",
-  "Total": "688",
-  "use": "255",
-  "remain": "433",
-  "progress": 0.6293604651162791
+  "Phone": 880138869784,
+  "Total": 688,
+  "use": 255,
+  "remain": 433,
+  "progress": 63
  },
  {
-  "id": "8",
+  "id": 8,
   "name": "Hash",
-  "Phone ": "0130868296",
-  "Total": "174",
-  "use": "104",
-  "remain": "70",
-  "progress": 0.40229885057471265
+  "Phone": 880156433200,
+  "Total": 174,
+  "use": 104,
+  "remain": 70,
+  "progress": 40
  },
  {
-  "id": "9",
+  "id": 9,
   "name": "Murgi",
-  "Phone ": "0164579421",
-  "Total": "317",
-  "use": "107",
-  "remain": "210",
-  "progress": 0.6624605678233438
+  "Phone": 880169342819,
+  "Total": 317,
+  "use": 107,
+  "remain": 210,
+  "progress": 66
  },
  {
-  "id": "10",
+  "id": 10,
   "name": "Karim",
-  "Phone ": "0137202001",
-  "Total": "744",
-  "use": "21",
-  "remain": "723",
-  "progress": 0.9717741935483871
+  "Phone": 880154750417,
+  "Total": 744,
+  "use": 21,
+  "remain": 723,
+  "progress": 97.00
  },
  {
-  "id": "11",
+  "id": 11,
   "name": "Pagol",
-  "Phone ": "0189053337",
-  "Total": "735",
-  "use": "111",
-  "remain": "624",
-  "progress": 0.8489795918367347
+  "Phone": 880138869784,
+  "Total": 735,
+  "use": 111,
+  "remain": 624,
+  "progress": 85.00
  },
  {
-  "id": "12",
+  "id": 12,
   "name": "Chagol",
-  "Phone ": "0189477761",
-  "Total": "16",
-  "use": "5",
-  "remain": "11",
-  "progress": 0.6875
+  "Phone": 880156433200,
+  "Total": 16,
+  "use": 5,
+  "remain": 11,
+  "progress": 69.00
  },
  {
-  "id": "13",
+  "id": 13,
   "name": "Vera",
-  "Phone ": "0189644231",
-  "Total": "400",
-  "use": "33",
-  "remain": "367",
-  "progress": 0.9175
+  "Phone": 880169342819,
+  "Total": 400,
+  "use": 33,
+  "remain": 367,
+  "progress": 92.00
  },
  {
-  "id": "14",
+  "id": 14,
   "name": "Hash",
-  "Phone ": "0186374273",
-  "Total": "695",
-  "use": "421",
-  "remain": "274",
-  "progress": 0.3942446043165468
+  "Phone": 880154750417,
+  "Total": 695,
+  "use": 421,
+  "remain": 274,
+  "progress": 39.00
  },
  {
-  "id": "15",
+  "id": 15,
   "name": "Murgi",
-  "Phone ": "0183235316",
-  "Total": "4",
-  "use": "3",
-  "remain": "1",
-  "progress": 0.25
+  "Phone": 880138869784,
+  "Total": 4,
+  "use": 3,
+  "remain": 1,
+  "progress": 25.00
  },
  {
-  "id": "16",
+  "id": 16,
   "name": "Karim",
-  "Phone ": "0148725835",
-  "Total": "149",
-  "use": "50",
-  "remain": "99",
-  "progress": 0.6644295302013423
+  "Phone": 880156433200,
+  "Total": 149,
+  "use": 50,
+  "remain": 99,
+  "progress": 66.00
  },
  {
-  "id": "17",
+  "id": 17,
   "name": "Pagol",
-  "Phone ": "0175288335",
-  "Total": "437",
-  "use": "50",
-  "remain": "387",
-  "progress": 0.88558352402746
+  "Phone": 880169342819,
+  "Total": 437,
+  "use": 50,
+  "remain": 387,
+  "progress": 89.00
  },
  {
-  "id": "18",
+  "id": 18,
   "name": "Chagol",
-  "Phone ": "0173751291",
-  "Total": "739",
-  "use": "515",
-  "remain": "224",
-  "progress": 0.30311231393775373
+  "Phone": 880154750417,
+  "Total": 739,
+  "use": 515,
+  "remain": 224,
+  "progress": 30.00
  },
  {
-  "id": "19",
+  "id": 19,
   "name": "Vera",
-  "Phone ": "0163601023",
-  "Total": "350",
-  "use": "112",
-  "remain": "238",
-  "progress": 0.68
+  "Phone": 880138869784,
+  "Total": 350,
+  "use": 112,
+  "remain": 238,
+  "progress": 68.00
  },
  {
-  "id": "20",
+  "id": 20,
   "name": "Hash",
-  "Phone ": "0155348193",
-  "Total": "782",
-  "use": "757",
-  "remain": "25",
-  "progress": 0.0319693094629156
+  "Phone": 880156433200,
+  "Total": 782,
+  "use": 757,
+  "remain": 25,
+  "progress": 3.00
  },
  {
-  "id": "21",
+  "id": 21,
   "name": "Murgi",
-  "Phone ": "0147210726",
-  "Total": "483",
-  "use": "48",
-  "remain": "435",
-  "progress": 0.9006211180124224
+  "Phone": 880169342819,
+  "Total": 483,
+  "use": 48,
+  "remain": 435,
+  "progress": 90.00
  },
  {
-  "id": "22",
+  "id": 22,
   "name": "Karim",
-  "Phone ": "0188187967",
-  "Total": "383",
-  "use": "62",
-  "remain": "321",
-  "progress": 0.8381201044386423
+  "Phone": 880154750417,
+  "Total": 383,
+  "use": 62,
+  "remain": 321,
+  "progress": 84.00
  },
  {
-  "id": "23",
+  "id": 23,
   "name": "Karim",
-  "Phone ": "0180173133",
-  "Total": "452",
-  "use": "350",
-  "remain": "102",
-  "progress": 0.22566371681415928
+  "Phone": 880138869784,
+  "Total": 452,
+  "use": 350,
+  "remain": 102,
+  "progress": 23.00
  },
  {
-  "id": "24",
+  "id": 24,
   "name": "Pagol",
-  "Phone ": "0139036149",
-  "Total": "725",
-  "use": "178",
-  "remain": "547",
-  "progress": 0.7544827586206897
+  "Phone": 880156433200,
+  "Total": 725,
+  "use": 178,
+  "remain": 547,
+  "progress": 75.00
  },
  {
-  "id": "25",
+  "id": 25,
   "name": "Chagol",
-  "Total": "654",
-  "use": "23",
-  "remain": "631",
-  "progress": 0.9648318042813455
+  "Phone": 880169342819,
+  "Total": 654,
+  "use": 23,
+  "remain": 631,
+  "progress": 96.00
  },
  {
-  "id": "26",
+  "id": 26,
   "name": "Vera",
-  "Total": "352",
-  "use": "322",
-  "remain": "30",
-  "progress": 0.08522727272727272
+  "Phone": 880154750417,
+  "Total": 352,
+  "use": 322,
+  "remain": 30,
+  "progress": 9.00
  },
  {
-  "id": "27",
+  "id": 27,
   "name": "Hash",
-  "Total": "15",
-  "use": "10",
-  "remain": "5",
-  "progress": 0.3333333333333333
+  "Phone": 880138869784,
+  "Total": 15,
+  "use": 10,
+  "remain": 5,
+  "progress": 33.00
  },
  {
-  "id": "28",
+  "id": 28,
   "name": "Murgi",
-  "Total": "901",
-  "use": "325",
-  "remain": "576",
-  "progress": 0.6392896781354052
+  "Phone": 880156433200,
+  "Total": 901,
+  "use": 325,
+  "remain": 576,
+  "progress": 64.00
  },
  {
-  "id": "29",
-"name": "Karim",
-  "Total": "501",
-  "use": "498",
-  "remain": "3",
-  "progress": 0.005988023952095809
+  "id": 29,
+  "name": "Karim",
+  "Phone": 880169342819,
+  "Total": 501,
+  "use": 498,
+  "remain": 3,
+  "progress": 1.00
  },
  {
-  "id": "30",
+  "id": 30,
   "name": "Pagol",
-  "Total": "25",
-  "use": "18",
-  "remain": "7",
-  "progress": 0.28
+  "Phone": 880154750417,
+  "Total": 25,
+  "use": 18,
+  "remain": 7,
+  "progress": 28.00
  }
 ]
