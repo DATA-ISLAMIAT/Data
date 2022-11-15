@@ -35,238 +35,41 @@
   "remain": 504,
   "progress": 95
  },
- {
+  {
   "id": 5,
-  "name": "Pagol",
+  "name": "Noman",
   "Phone": 880169342819,
-  "Total": 354,
-  "use": 342,
-  "remain": 12,
-  "progress": 3
+  "Total": 463,
+  "use": 268,
+  "remain": 195,
+  "progress": 42
  },
  {
   "id": 6,
-  "name": "Chagol",
+  "name": "Alauddin",
   "Phone": 880154750417,
-  "Total": 411,
-  "use": 230,
-  "remain": 181,
-  "progress": 44
+  "Total": 822,
+  "use": 651,
+  "remain": 171,
+  "progress": 21
  },
  {
   "id": 7,
-  "name": "Vera",
+  "name": "Rahim",
   "Phone": 880138869784,
-  "Total": 688,
-  "use": 255,
-  "remain": 433,
-  "progress": 63
+  "Total": 807,
+  "use": 757,
+  "remain": 50,
+  "progress": 6
  },
  {
   "id": 8,
-  "name": "Hash",
-  "Phone": 880156433200,
-  "Total": 174,
-  "use": 104,
-  "remain": 70,
-  "progress": 40
- },
- {
-  "id": 9,
-  "name": "Murgi",
-  "Phone": 880169342819,
-  "Total": 317,
-  "use": 107,
-  "remain": 210,
-  "progress": 66
- },
- {
-  "id": 10,
-  "name": "Karim",
-  "Phone": 880154750417,
-  "Total": 744,
-  "use": 21,
-  "remain": 723,
-  "progress": 97
- },
- {
-  "id": 11,
-  "name": "Pagol",
-  "Phone": 880138869784,
-  "Total": 735,
-  "use": 111,
-  "remain": 624,
-  "progress": 85
- },
- {
-  "id": 12,
-  "name": "Chagol",
-  "Phone": 880156433200,
-  "Total": 16,
-  "use": 5,
-  "remain": 11,
-  "progress": 69
- },
- {
-  "id": 13,
-  "name": "Vera",
-  "Phone": 880169342819,
-  "Total": 400,
-  "use": 33,
-  "remain": 367,
-  "progress": 92
- },
- {
-  "id": 14,
-  "name": "Hash",
-  "Phone": 880154750417,
-  "Total": 695,
-  "use": 421,
-  "remain": 274,
-  "progress": 39
- },
- {
-  "id": 15,
-  "name": "Murgi",
-  "Phone": 880138869784,
-  "Total": 4,
-  "use": 3,
-  "remain": 1,
-  "progress": 25
- },
- {
-  "id": 16,
   "name": "Karim",
   "Phone": 880156433200,
-  "Total": 149,
-  "use": 50,
-  "remain": 99,
-  "progress": 66
+  "Total": 528,
+  "use": 24,
+  "remain": 504,
+  "progress": 95
  },
- {
-  "id": 17,
-  "name": "Pagol",
-  "Phone": 880169342819,
-  "Total": 437,
-  "use": 50,
-  "remain": 387,
-  "progress": 89
- },
- {
-  "id": 18,
-  "name": "Chagol",
-  "Phone": 880154750417,
-  "Total": 739,
-  "use": 515,
-  "remain": 224,
-  "progress": 30
- },
- {
-  "id": 19,
-  "name": "Vera",
-  "Phone": 880138869784,
-  "Total": 350,
-  "use": 112,
-  "remain": 238,
-  "progress": 68
- },
- {
-  "id": 20,
-  "name": "Hash",
-  "Phone": 880156433200,
-  "Total": 782,
-  "use": 757,
-  "remain": 25,
-  "progress": 3
- },
- {
-  "id": 21,
-  "name": "Murgi",
-  "Phone": 880169342819,
-  "Total": 483,
-  "use": 48,
-  "remain": 435,
-  "progress": 90
- },
- {
-  "id": 22,
-  "name": "Karim",
-  "Phone": 880154750417,
-  "Total": 383,
-  "use": 62,
-  "remain": 321,
-  "progress": 84
- },
- {
-  "id": 23,
-  "name": "Karim",
-  "Phone": 880138869784,
-  "Total": 452,
-  "use": 350,
-  "remain": 102,
-  "progress": 23
- },
- {
-  "id": 24,
-  "name": "Pagol",
-  "Phone": 880156433200,
-  "Total": 725,
-  "use": 178,
-  "remain": 547,
-  "progress": 75
- },
- {
-  "id": 25,
-  "name": "Chagol",
-  "Phone": 880169342819,
-  "Total": 654,
-  "use": 23,
-  "remain": 631,
-  "progress": 96
- },
- {
-  "id": 26,
-  "name": "Vera",
-  "Phone": 880154750417,
-  "Total": 352,
-  "use": 322,
-  "remain": 30,
-  "progress": 9
- },
- {
-  "id": 27,
-  "name": "Hash",
-  "Phone": 880138869784,
-  "Total": 15,
-  "use": 10,
-  "remain": 5,
-  "progress": 33
- },
- {
-  "id": 28,
-  "name": "Murgi",
-  "Phone": 880156433200,
-  "Total": 901,
-  "use": 325,
-  "remain": 576,
-  "progress": 64
- },
- {
-  "id": 29,
-  "name": "Karim",
-  "Phone": 880169342819,
-  "Total": 501,
-  "use": 498,
-  "remain": 3,
-  "progress": 1
- },
- {
-  "id": 30,
-  "name": "Pagol",
-  "Phone": 880154750417,
-  "Total": 25,
-  "use": 18,
-  "remain": 7,
-  "progress": 28
- }
+ 
 ]
