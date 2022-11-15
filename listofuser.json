@@ -33,210 +33,35 @@
   },
   {
     "id": 5,
-    "name": "Pagol",
+    "name": "Noman",
     "email": "example1@gmail.com",
     "status": "Active",
-    "age": 40,
-    "phonenumber": "0139156810"
+    "age": 20,
+    "phonenumber": "0195253978"
   },
   {
     "id": 6,
-    "name": "Chagol",
+    "name": "Alauddin",
     "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0195045819"
+    "status": "Passive",
+    "age": 18,
+    "phonenumber": "0133978286"
   },
   {
     "id": 7,
-    "name": "Vera",
+    "name": "Rahim",
     "email": "example1@gmail.com",
     "status": "Active",
-    "age": 35,
-    "phonenumber": "0188694574"
+    "age": 96,
+    "phonenumber": "0132513016"
   },
   {
     "id": 8,
-    "name": "Hash",
-    "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0139377671"
-  },
-  {
-    "id": 9,
-    "name": "Murgi",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 18,
-    "phonenumber": "0184757648"
-  },
-  {
-    "id": 10,
     "name": "Karim",
     "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 96,
-    "phonenumber": "0179833429"
-  },
-  {
-    "id": 11,
-    "name": "Pagol",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 65,
-    "phonenumber": "0188193155"
-  },
-  {
-    "id": 12,
-    "name": "Chagol",
-    "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0175201092"
-  },
-  {
-    "id": 13,
-    "name": "Vera",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 18,
-    "phonenumber": "0163286147"
-  },
-  {
-    "id": 14,
-    "name": "Hash",
-    "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 96,
-    "phonenumber": "0187065015"
-  },
-  {
-    "id": 15,
-    "name": "Murgi",
-    "email": "example1@gmail.com",
     "status": "Active",
     "age": 56,
-    "phonenumber": "0159524605"
-  },
-  {
-    "id": 16,
-    "name": "Karim",
-    "email": "example2@gmail.com",
-    "status": "Active",
-    "age": 40,
-    "phonenumber": "0158720640"
-  },
-  {
-    "id": 17,
-    "name": "Pagol",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0163106862"
-  },
-  {
-    "id": 18,
-    "name": "Chagol",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 35,
-    "phonenumber": "0167400920"
-  },
-  {
-    "id": 19,
-    "name": "Vera",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0144227707"
-  },
-  {
-    "id": 20,
-    "name": "Hash",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 18,
-    "phonenumber": "0159071856"
-  },
-  {
-    "id": 21,
-    "name": "Murgi",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 96,
-    "phonenumber": "0198127420"
-  },
-  {
-    "id": 22,
-    "name": "Karim",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 65,
-    "phonenumber": "0177604210"
-  },
-  {
-    "id": 23,
-    "name": "Karim",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 20,
-    "phonenumber": "0148540648"
-  },
-  {
-    "id": 24,
-    "name": "Pagol",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 18,
-    "phonenumber": "0155139024"
-  },
-  {
-    "id": 25,
-    "name": "Chagol",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 96,
-    "phonenumber": "0149782289"
-  },
-  {
-    "id": 26,
-    "name": "Vera",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 56,
-    "phonenumber": "0181155703"
-  },
-  {
-    "id": 27,
-    "name": "Hash",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 40,
-    "phonenumber": "0144515723"
-  },
-  {
-    "id": 28,
-    "name": "Murgi",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 20,
-    "phonenumber": "0191601873"
-  },
-  {
-    "id": 29,
-    "name": "Karim",
-    "email": "example1@gmail.com",
-    "status": "Active",
-    "age": 35,
-    "phonenumber": "0181765105"
-  },
-  {
-    "id": 30,
-    "name": "Pagol",
-    "email": "example2@gmail.com",
-    "status": "Passive",
-    "age": 20,
-    "phonenumber": "0159157512"
+    "phonenumber": "0186888912"
   }
+ 
 ]
