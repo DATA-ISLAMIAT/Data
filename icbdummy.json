@@ -1,0 +1,38 @@
+[
+   {
+      "trackerNumber":"123456",
+      "status":"Pending",
+      "nameApplicant":"Md Aminul Islam",
+      "designation":"Software Engineer",
+      "ApplicationDate":"12/12/2020",
+      "ApplicationTime":"12:00:00",
+      "ApplicationType":"Loan",
+      "PhoneNumber":"01534207274",
+      "Address":"19/B/1, Mirpur Road, Dhaka-1216",
+      "departments":[
+         {
+            "name":"Loan Processing",
+            "color":"red",
+            "status":"Accepted"
+         },
+         {
+            "name":"Underwriting",
+            "color":"red",
+            "status":"Pending"
+         },
+         {
+            "name":"Closing",
+            "color":"red",
+            "status":"Pending"
+         }
+      ]
+   },
+   {
+      "trackerNumber":"789012",
+      "status":"Accepted"
+   },
+   {
+      "trackerNumber":"345678",
+      "status":"Pending"
+   }
+]
